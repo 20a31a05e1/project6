@@ -2,10 +2,13 @@
 
 <p align="center">A "Hospital Management System / Medical Information System" Project</p>
 <p align="center">titled</p>
-<h5 align="center">Mental Health Care - Patient Management System (MHC-PMS)</h5>
+<h5 align="center">Mental Health Care - Patient Management System (MHC-PMS)
+Click here= https://mhc-pms.netlify.app
+</h5>
+
   
 ---
-  
+
 <br>
 
 <details>
@@ -34,13 +37,6 @@
 <br>
 
 ---
-### Click here to proceed
-
-<br>
-
-> The live app can be accessed on <https://mhc-pms.netlify.app>
-
-<br>
 
 </details>
 
