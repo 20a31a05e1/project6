@@ -34,6 +34,13 @@
 <br>
 
 ---
+### Click here to proceed
+
+<br>
+
+> The live app can be accessed on <https://mhc-pms.netlify.app>
+
+<br>
 
 </details>
 
@@ -188,16 +195,6 @@ Admin can verify or reject the accounts of the staffs and doctors. Staffs or doc
 
 ---
 
-### Run This App Locally
-
-```
-yarn && yarn start
-```
-
 <br>
 
-> The live app can be accessed on <https://mhc-pms.netlify.app>
-
-<br>
-<br>
 
