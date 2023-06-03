@@ -3,7 +3,7 @@
 <p align="center">A "Hospital Management System / Medical Information System" Project</p>
 <p align="center">titled</p>
 <h5 align="center">Mental Health Care - Patient Management System (MHC-PMS)
-Click here= https://mhc-pms.netlify.app
+Click here
 </h5>
 
   
