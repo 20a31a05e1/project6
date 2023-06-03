@@ -23,6 +23,10 @@
 - It makes use of a centralized database of patient information but has also been designed to run on a PC, so that it may be accessed and used from sites that do not have secure network connectivity.
 - When the local systems have secure network access, they use patient information in the database but they can download and use local copies of patient records when they are disconnected.
 
+ **Project Link**-  https://20a31a05e1.github.io/project6/
+ 
+ **Project demo video link**- https://youtu.be/4VLXRYsbYBU
+ 
 ### Goals:
 
 - To generate management information that allows health service managers to assess performance against local and government targets.
