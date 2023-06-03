@@ -128,6 +128,10 @@ Patient can ask the reception staff to book an appointment on visiting the clini
 ![](./public/readme_assets/staff_cancelappointment.gif)
 Staff can cancel any appointment by entering the email id of the patient. All the appointments of the patient will show up on submitting the email id. The staff can then cancel any appointment which a patient want the staff to.
 
+  
+### HealthBot
+<p><iframe src='https://webchat.botframework.com/embed/healthbot-wswoaiu?s=TSUvDKzhi_I.WST5kuJN5VaxgPZWuYvU2RMRmagN4Y5lgNgiLmuV_Gc' style='min-width: 400px; width: 100%; min-height:500px;'></iframe>
+</p>
 ### Make Payment
 
 ![](./public/readme_assets/staff_makepayment.gif)
